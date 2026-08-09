@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vlwi23.mariatogel88bsd.site/sitemap.xml
